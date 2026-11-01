@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/wadwat/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/wadwat/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/wadwat/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
@@ -14,4 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/wadwat/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/wadwat/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/wadwat/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/wadwat/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
